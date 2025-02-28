@@ -1,0 +1,9 @@
+ 
+       
+
+
+
+         <div class="flex items-center md:gap-[16px] gap-[10px] md:ml-[15px] ml-[10px]">
+        <img src="./img/Group 40070.png" alt="">
+        <a class="text-[#131318] font-mulish lg:text-4xl md:text-[28px] text-[21px] font-extrabold">Hero <span class="text-[#FF5400]">Travel</span></a>
+      </div>

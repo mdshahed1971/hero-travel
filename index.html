@@ -26,54 +26,86 @@
 </head>
 <body>
 
-  
+<!-- header end -->
     <header class="container mx-auto">
-
 <!-- time start -->
 <div class="flex items-center lg:hidden justify-center md:gap-[550px] gap-[180px] md:mt-[20px] mt-[14px]">
 <p class="text-[#0E0E0E] text-[15px] font-semibold">9:41</p>
  <div class="gap-[15px]">
-    <i class="fa-solid fa-signal"></i>
-    <i class="fa-solid fa-wifi"></i>
+    <i class="fa-solid fa-signal mr-[7px]"></i>
+    <i class="fa-solid fa-wifi mr-[7px]"></i>
     <i class="fa-solid fa-battery-full"></i>
  </div>
 </div>
 <!-- time end -->
 
 <!-- navbar start -->
-<div class="navbar bg-base-100 lg:mt-[52px] md:mt-[35px] mt-[20px]">
-    <div class="navbar-start">
-     
-      <div class="flex items-center md:gap-[16px] gap-[10px] md:ml-[15px] ml-[10px]">
-        <img src="./img/Group 40070.png" alt="">
-        <a class="text-[#131318] font-mulish lg:text-4xl md:text-[28px] text-[21px] font-extrabold">Hero <span class="text-[#FF5400]">Travel</span></a>
-      </div>
-      <div class="dropdown lg:hidden block md:ml-[580px] ml-[190px] ">
-        <i class="fa-solid fa-bars text-[#131318]"></i>
-      </div>
-     
-    </div>
-    <div class="navbar-center hidden lg:flex">
-      <ul class="menu menu-horizontal px-1 gap-11">
+<div class="navbar bg-base-100 lg:mt-[50px] md:mt-[40px] mt-[34px] lg:mb-[50px] md:mb-[30px] mb-[17px]">
+  <div class="navbar-start">
+    <div class="dropdown">
+   
+      <ul
+        tabindex="0"
+        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
         <li><a class="text-[#FF5400] font-mulish text-lg font-bold">Home</a></li>
-        <li><a class="text-[#424247] font-mulish text-lg font-light">Packages</a></li>
-        <li><a class="text-[#424247] font-mulish text-lg font-light">Testimonial</a></li>
-        <li><a class="text-[#424247] font-mulish text-lg font-light">Blog</a></li>
-        <li><a class="text-[#424247] font-mulish text-lg font-light">Contact</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-normal">Packages</a></li>
+          <li><a class="text-[#424247] font-mulish text-lg font-normal">Testimonial</a></li>
+          <li><a class="text-[#424247] font-mulish text-lg font-normal">Blog</a></li>
+          <li><a class="text-[#424247] font-mulish text-lg font-normal">Contact</a></li>
       </ul>
     </div>
+    <img src="./img/Group 40070.png" alt="">
+    <a class=" text-[#131318] font-mulish font-extrabold lg:text-4xl md:text-3xl text-[21px]">Hero <span class="text-[#FF5400]">Travel</span></a>
+    <div tabindex="0" role="button" class="btn btn-ghost lg:hidden md:ml-[550px] ml-[140px]">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-5 w-5"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor">
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M4 6h16M4 12h8m-8 6h16" />
+      </svg>
+    </div>
   </div>
+  <div class="navbar-center hidden lg:flex">
+    <ul class="menu menu-horizontal px-1">
+      <li><a class="text-[#FF5400] font-mulish text-lg font-bold">Home</a></li>
+      <li><a class="text-[#424247] font-mulish text-lg font-normal">Packages</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-normal">Testimonial</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-normal">Blog</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-normal">Contact</a></li>
+    </ul>
+  </div>
+</div>
 <!-- navbar end -->
 
+ <!-- banner start -->
+ <div
+ class="hero lg:mb-[100px] md:mb-[50px] mb-[24px]"
+ style="background-image: url(./img/Rectangle\ 1.png), linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);">
+ <div class="hero-overlay bg-opacity-60"></div>
+ <div class="hero-content text-neutral-content text-center lg:py-[106px] md:py-[60px] py-[32px]">
+   <div class="">
+     <h1 class=" lg:text-[64px] md:text-[40px] text-[22px] font-extrabold text-[#FFF] font-mulish">Explore Your Travel</h1>
+     <p class="lg:mb-[48px] lg:mt-[24px] md:mb-[40px] md:mt-[18px] mb-[32px] mt-[12px] text-[white] md:text-base text-sm font-mulish leading-[26px]">
+      Traveling for relaxation, sightseeing, or recreation. This includes vacations, <br> holidays, and visits to popular tourist destinations.
+     </p>
+     <div class="p-[25px] rounded-[8px]" style="background: rgba(255, 255, 255, 0.30);">
+     <button class="text-[#13131880] font-mulish text-base font-normal py-4 pl-[16px] lg:pr-[84px] pr-[120px] rounded-[8px] bg-[#FFF] mr-6">Where go</button>
+     <button class="text-[#13131880] font-mulish text-base font-normal rounded-[8px] py-4 pl-[15px] bg-[#FFF] mr-6">When <i class="fa-solid fa-chevron-down lg:ml-[74px] lg:mr-[14px] ml-[120px]" class="-text-[#131318B2] ml-[50px]"></i></button>
+     <button class="text-[#13131880] font-mulish text-base font-normal rounded-[8px] py-4 pl-[15px] bg-[#FFF] mr-6">Select Type <i class="fa-solid fa-chevron-down ml-[74px] mr-[14px]" class="text-[#131318B2]"></i></button>
+     <button class="bg-[#FF5400] py-4 lg:px-[34px] px-[50px] rounded-[8px] font-mulish text-base font-normal text-[white]"><i class="fa-solid fa-magnifying-glass mr-[15px]" class="text-[#FFFFFF]"></i>Find Now</button>
+    </div>
+   </div>
+ </div>
+</div>
 
-
-
-
-
-
-
-
-
+<!-- banner end -->
     </header>
+    <!-- header end -->
 </body>
 </html>
