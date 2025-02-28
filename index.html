@@ -1,12 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hero Travel</title>
     <link rel="shortcut icon" href="img/Group 40070.png" type="image/x-icon">
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <!-- google fonts -->
+     <!-- tailwind and daisyui -->
+     <script src="https://cdn.tailwindcss.com"></script>
+     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.24/dist/full.min.css" rel="stylesheet" type="text/css" />
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- tailwind and daisyui -->
+      <!-- font awsome -->
+      <script src="https://kit.fontawesome.com/2d2b6264bc.js" crossorigin="anonymous"></script>
+      <!-- font awsome -->
+     <style>
+        .font-mulish{
+            font-family: "Mulish", serif;
+        }
+     </style>
 </head>
 <body>
-    
+
+  
+    <header class="container mx-auto">
+
+<!-- time start -->
+<div class="flex items-center lg:hidden justify-center md:gap-[550px] gap-[180px] md:mt-[20px] mt-[14px]">
+<p class="text-[#0E0E0E] text-[15px] font-semibold">9:41</p>
+ <div class="gap-[15px]">
+    <i class="fa-solid fa-signal"></i>
+    <i class="fa-solid fa-wifi"></i>
+    <i class="fa-solid fa-battery-full"></i>
+ </div>
+</div>
+<!-- time end -->
+
+<!-- navbar start -->
+<div class="navbar bg-base-100 lg:mt-[52px] md:mt-[35px] mt-[20px]">
+    <div class="navbar-start">
+     
+      <div class="flex items-center md:gap-[16px] gap-[10px] md:ml-[15px] ml-[10px]">
+        <img src="./img/Group 40070.png" alt="">
+        <a class="text-[#131318] font-mulish lg:text-4xl md:text-[28px] text-[21px] font-extrabold">Hero <span class="text-[#FF5400]">Travel</span></a>
+      </div>
+      <div class="dropdown lg:hidden block md:ml-[580px] ml-[190px] ">
+        <i class="fa-solid fa-bars text-[#131318]"></i>
+      </div>
+     
+    </div>
+    <div class="navbar-center hidden lg:flex">
+      <ul class="menu menu-horizontal px-1 gap-11">
+        <li><a class="text-[#FF5400] font-mulish text-lg font-bold">Home</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-light">Packages</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-light">Testimonial</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-light">Blog</a></li>
+        <li><a class="text-[#424247] font-mulish text-lg font-light">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+<!-- navbar end -->
+
+
+
+
+
+
+
+
+
+
+    </header>
 </body>
 </html>
