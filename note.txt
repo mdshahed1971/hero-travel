@@ -185,3 +185,87 @@ p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26
   <h3 class="text-[#131318] font-mulish text-2xl mt-[32px] mb-[15px] font-extrabold">World Class Service</h3>
   <p class="text-[#5A5A5D] text-base font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
 </div>
+
+
+
+
+<section class="container mx-auto lg:mb-[100px] md:mb-[50px] mb-[24px]">
+ 
+<div class="text-center">
+  <h2 class="text-[#131318] font-mulish lg:text-[40px] md:text-[30px] text-[20px] font-extrabold">Why Choose Us</h2>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] md:mt-[24px] md:mb-[48px] mt-[20px] mb-[16px]">Make sure the destination is safe and accessible. This includes <br>checking the local political climate, </p>
+</div>
+
+<div class="flex justify-center lg:flex-row flex-col md:gap-[24px] gap-[16px] mb-[24px]">
+<div class="p-8 rounded-[16px] inline-block border border: 1px solid rgba(251, 181, 99, 0.20);" style="background: rgba(251, 181, 99, 0.05);">
+  <img src="./img/hotel 1.png" alt="">
+  <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px]  font-extrabold">Handpicked Hotels</h3>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
+
+
+<div class="p-8 rounded-[16px] inline-block border border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(41, 206, 246, 0.05);">
+  <img src="./img/map 1.png" alt="">
+  <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px] font-extrabold">World Class Service</h3>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
+
+
+
+
+
+</div>
+
+<div class="container" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="p-8 border rounded-[16px]  border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(233, 68, 68, 0.05);">
+    <img src="./img/price-tag 1 (1).png" alt="">
+    <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px] font-extrabold">Best Price Guarantee</h3>
+    <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] mr-[21px]">Amet consectetur. Vulputate commodo felis molestie risus ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet.</p>
+  </div>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+<section class="container mx-auto lg:mb-[100px] md:mb-[50px] mb-[24px]">
+ 
+<div class="text-center">
+  <h2 class="text-[#131318] font-mulish lg:text-[40px] md:text-[30px] text-[20px] font-extrabold">Why Choose Us</h2>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] md:mt-[24px] md:mb-[48px] mt-[20px] mb-[16px]">Make sure the destination is safe and accessible. This includes <br>checking the local political climate, </p>
+</div>
+
+<div class="flex justify-center lg:flex-row flex-col md:gap-[24px] gap-[16px] mb-[24px]">
+<div class="p-8 rounded-[16px] inline-block border border: 1px solid rgba(251, 181, 99, 0.20);" style="background: rgba(251, 181, 99, 0.05);">
+  <img src="./img/hotel 1.png" alt="">
+  <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px]  font-extrabold">Handpicked Hotels</h3>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
+
+
+<div class="p-8 rounded-[16px] inline-block border border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(41, 206, 246, 0.05);">
+  <img src="./img/map 1.png" alt="">
+  <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px] font-extrabold">World Class Service</h3>
+  <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
+
+
+
+
+
+</div>
+
+<div class="container" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="p-8 border rounded-[16px]  border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(233, 68, 68, 0.05);">
+    <img src="./img/price-tag 1 (1).png" alt="">
+    <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px] font-extrabold">Best Price Guarantee</h3>
+    <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px] mr-[21px]">Amet consectetur. Vulputate commodo felis molestie risus ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet.</p>
+  </div>
+</div>
+
+</section>
