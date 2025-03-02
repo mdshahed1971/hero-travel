@@ -157,3 +157,31 @@ w-52
     <i class="fa-solid fa-battery-full"></i>
  </div>
 </div>
+
+
+
+
+  <h2 class="text-[#131318] font-mulish lg:text-[40px] md:text-[30px] text-xl font-extrabold">Choose Your Destination</h2>
+p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26px] mt-[24px] mb-[48px]"> Make sure you check the entry requirements for your <br>destination (such as visas, vaccinations, etc.).</p>
+
+
+
+
+
+
+<div class="p-8 border inline-block border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(233, 68, 68, 0.05);">
+  <img src="./img/price-tag 1 (1).png" alt="">
+  <h3 class="text-[#131318] font-mulish text-2xl mt-[32px] mb-[15px] font-extrabold">Best Price Guarantee</h3>
+  <p class="text-[#5A5A5D] text-base font-normal font-mulish leading-[26px] mr-[21px]">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
+
+
+
+
+
+
+<div class="p-8 rounded-[16px] inline-block border border: 1px solid rgba(41, 206, 246, 0.20);" style="background: rgba(41, 206, 246, 0.05);">
+  <img src="./img/map 1.png" alt="">
+  <h3 class="text-[#131318] font-mulish text-2xl mt-[32px] mb-[15px] font-extrabold">World Class Service</h3>
+  <p class="text-[#5A5A5D] text-base font-normal font-mulish leading-[26px] ">Amet consectetur. Vulputate commodo felis molestie risus  ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet. </p>
+</div>
