@@ -283,3 +283,67 @@ p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26
   </div>
 
   <i class="fa-brands fa-instagram"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <section class="container mx-auto mb-[100px]">
+<div class="text-center">
+  <h2 class="text-[#131318] font-mulish lg:text-[40px] md:text-[30px] text-xl font-extrabold">Choose Your Destination</h2>
+  <p class="text-[#5A5A5D] font-mulish md:text-base text-sm mb-[48px] mt-[24px] font-nornal leading-[26px]"> If you're interested in history and culture, choose a destination <br>known for its museums, historical sites</p>
+</div>
+
+
+<div class="flex justify-center gap-[24px] mb-[24px]">
+  <div class="rounded-[16px]" style="background-image: url(./img/Rectangle\ 5.png);">
+    <h2 class="py-[125px] px-[220px] text-[#FFF] text-[28px] font-mulish font-extrabold">Maldives</h2>
+  </div>
+  <div class="rounded-[16px]" style="background-image: url(./img/t-img.png);">
+   <h2 class="py-[125px] px-[220px] text-[#FFF] text-[28px] font-mulish font-extrabold">Indonesia</h2>
+  </div>
+</div>
+
+
+
+
+<div class="flex justify-center gap-[24px] mb-[24px]">
+  <div class="" style="background-image:url(./img/Rectangle\ 6.png) ;">
+  <h2 class="py-[120px] px-[130px] text-[#FFF] text-[28px] font-mulish font-extrabold">Srilanka</h2>
+  </div>
+  <div class="rounded-[16px]" style="background-image: url(./img/Rectangle\ 7.png);">
+  <h2 class="px-[137px] py-[120px] text-[#FFF] text-[28px] font-mulish font-extrabold">North America</h2>
+  </div>
+  <div class="rounded-[16px]" style="background-image:url(./img/Rectangle\ 9.png) ;">
+  <h2 class="py-[120px] px-[80px] text-[#FFF] text-[28px] font-mulish font-extrabold">Kashmir</h2>
+  </div>
+</div>
+
+
+
+<div class="flex lg:flex-row flex-col justify-center gap-[24px]">
+  <div class="rounded-[16px]" style="background-image: url(./img/Rectangle\ 11.png);">
+  <h2 class="py-[120px] px-[152px] text-[#FFF] text-[28px] font-mulish font-extrabold">Bangladesh</h2>
+  </div>
+  <div class="rounded-[16px]" style="background-image: url(./img/Rectangle\ 10.png);">
+  <h2 class="py-[120px] px-[260px] text-[#FFF] text-[28px] font-mulish font-extrabold">Bandarban</h2>
+  </div>
+</div>
+
+
+
+</section>
