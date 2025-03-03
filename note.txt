@@ -269,3 +269,15 @@ p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26
 </div>
 
 </section>
+
+
+
+<div class="p-8 inline-block rounded-[16px]  border border-[rgba(41, 206, 246, 0.20)]" style="background: rgba(233, 68, 68, 0.05);">
+    <img src="./img/price-tag 1 (1).png" alt="">
+    <h3 class="text-[#131318] font-mulish md:text-2xl text-xl lg:mt-[32px] mb-[16px] md:mt-[24px] mt-[16px] font-extrabold">
+      Best Price Guarantee
+    </h3>
+    <p class="text-[#5A5A5D] md:text-base text-sm font-normal font-mulish leading-[26px]">
+      Amet consectetur. Vulputate commodo felis molestie risus ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet.
+    </p>
+  </div>
