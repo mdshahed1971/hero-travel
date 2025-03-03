@@ -281,3 +281,5 @@ p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26
       Amet consectetur. Vulputate commodo felis molestie risus ornare <br>nulla amet et. Libero commodo sagittis dignissim adipiscing quis. <br>Habitant adipiscing risus natoque aliquet.
     </p>
   </div>
+
+  <i class="fa-brands fa-instagram"></i>
