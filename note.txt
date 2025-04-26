@@ -418,31 +418,43 @@ p class="md:text-base text-sm font-normal font-mulish text-[#5A5A5D] leading-[26
 
 
 
-<div class="flex justify-center">
-  <div class="py-[50px] rounded-[16px]" style="background-image: url(./img/Rectangle\ 12.png);">
-  <div class=" p-[50px] mr-[535px] ml-[56px] rounded-[16px]" style="background: rgba(255, 255, 255, 0.80);">
+
+
+<div class="flex justify-center mb-[24px]">
+  <div class="lg:py-[50px] rounded-[16px]" style="background-image: url(./img/s-img.png); background-repeat: no-repeat;">
+  <div class=" p-[50px] mr-[50px] ml-[550px] rounded-[16px]" style="background: rgba(255, 255, 255, 0.80);">
   <div class="flex gap-[24px]">
-  <div class="flex items-center">
+  <div class="flex items-center gap-[8px]">
     <i class="fa-solid fa-clock text-[#FF5400]"></i>
     <p class="text-[#5A5A5D] text-base font-normal font-mulish">7 Day / 6 Night</p>
   </div>
-  <div class="flex items-center">
+  <div class="flex items-center gap-[8px]">
     <i class="fa-solid fa-users text-[#FF5400]"></i>
     <p class="text-[#5A5A5D] text-base font-normal font-mulish">Max : 10</p>
   </div>
-  <div class="flex items-center">
+  <div class="flex items-center gap-[8px]">
     <i class="fa-solid fa-location-dot text-[#FF5400]"></i>
     <p class="text-[#5A5A5D] text-base font-normal font-mulish">Malaysia</p>
   </div>
   </div>
   
-  
-  
   <h3 class="text-[#131318] font-mulish font-extrabold text-2xl mt-[26px] mb-[16px]">Tour To Satorini</h3>
   <p class="text-[#5A5A5D] font-mulish text-base leading-[26px]">Santorini, a gem of the Aegean Sea, is one of <br>the most famous and sought-after travel destinations <br>in the world. Known for its stunning sunsets, pristine <br>beaches, whitewashed buildings, and crystal-clear waters, </p>
   <h4 class="text-[#FF5400] font-mulish font-extrabold text-xl mt-[16px] mb-[26px]">Price: $1300-$1500</h4>
-  <a class="px-[23px] py-[14px] bg-[#FF5400] rounded-[8px] text-[#FFF] text-xl font-mulish font-extrabold">Book Now</a>
+  <a class="px-[23px] py-[14px] bg-[#FF5400] cursor-pointer rounded-[8px] text-[#FFF] text-xl font-mulish font-extrabold">Book Now</a>
   </div>
   
   </div>
   </div>
+  
+
+
+
+
+
+
+
+
+  
+
+
